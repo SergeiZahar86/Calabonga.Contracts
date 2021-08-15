@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>C:\Users\sergei\Documents\Nuget\</OutputPath>
+    <DocumentationFile>C:\ProjectVisualStudio\2021\Calab.MassTransitPubSub\Calabonga.Contracts\Calabonga.Contracts\Calabonga.Contracts.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

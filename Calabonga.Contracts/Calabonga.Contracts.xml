@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Calabonga.Contracts</name>
+    </assembly>
+    <members>
+        <member name="P:Calabonga.Contracts.IApplicationUserCreated.Id">
+            <summary>
+            Identifier
+            </summary>
+        </member>
+        <member name="P:Calabonga.Contracts.IApplicationUserCreated.FirstName">
+            <summary>
+            FirstName
+            </summary>
+        </member>
+        <member name="P:Calabonga.Contracts.IApplicationUserCreated.LastName">
+            <summary>
+            LastName
+            </summary>
+        </member>
+    </members>
+</doc>
