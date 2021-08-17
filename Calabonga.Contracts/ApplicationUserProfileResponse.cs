@@ -2,7 +2,7 @@
 
 namespace Calabonga.Contracts
 {
-    public class ApplicationUserProfileResponse
+    public class ApplicationUserProfileResponse : IApplicationUserProfileResponse
     {
         public string FavoriteColor { get; set; }
         public Guid Id { get; set; }

@@ -2,7 +2,7 @@
 
 namespace Calabonga.Contracts
 {
-    public class ApplicationUserProfileRequest
+    public class ApplicationUserProfileRequest : IApplicationUserProfileRequest
     {
         public Guid Id { get; set; }
     }
